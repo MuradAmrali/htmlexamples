@@ -6,3 +6,7 @@ Burada tapmaq olar:
  - Layihələr
  
  
+ Nümunə:
+ 
+[Cədvəl](https://github.com/MuradAmrali/htmlexamples/blob/main/TableExample.html)
+ 
